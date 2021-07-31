@@ -12,6 +12,7 @@ public class test1
 		int c=a+b;
 		System.out.println("sum ot two numbers"+c);
 		
+		
 	}
 
 }
